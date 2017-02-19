@@ -1,1 +1,1 @@
-../../node_modules/swagger-ui/dist/swagger-ui.js
+../../../swagger-ui/dist/swagger-ui.js
